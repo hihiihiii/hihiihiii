@@ -1,4 +1,4 @@
-### Hi there 👋
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=E3826C&height=250&section=header&text=KimSeung%20Hwan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 <!--
 **hihiihiii/hihiihiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
